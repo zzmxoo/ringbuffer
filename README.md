@@ -1,0 +1,5 @@
+# ringbuffer
+
+make
+
+./test
